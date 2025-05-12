@@ -1,0 +1,5 @@
+#required libraries
+tensorflow
+tensorflow_datasets
+matplotlib.pyplot
+numpy
