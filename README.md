@@ -16,7 +16,7 @@ Solution :-
 
   > Dataset (while training the network) - Tensorflow dataset/"citrus_leaves"
 
-  > Library - cv2, numpy, matplotlib.pyplot
+  > Library - tensorflow, numpy, matplotlib.pyplot
 
   > Topic - VGG16, layers, optimizers, tfds, image generator, loss, accuracy
 
